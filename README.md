@@ -53,9 +53,22 @@ Ping and web tests were performed between departments to verify ACL and network 
 | Sales → Web Server | 192.168.20.10 | 192.168.10.5 | ✅ Allowed |
 
 Screenshots:  
-- `Images/ping_tests.png`  
-- `Images/access_list_results.png`  
-- `Images/web_server_result.png`
+## Network Topology
+![Network Topology](Images/Network_Topology.png)
+
+## Router ACL Configuration
+![Router ACL Configuration](Images/Router_ACL_Config.png)
+
+## Access Control Test Results
+### Admin Access
+![Admin Access Test](Images/Access_Test_Admin.png)
+
+### Sales Access
+![Sales Access Test](Images/Access_Test_Sales.png)
+
+### HR Access
+![HR Access Test](Images/Access_Test_HR.png)
+
 
 ---
 
