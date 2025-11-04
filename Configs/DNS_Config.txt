@@ -1,0 +1,7 @@
+DNS Server Configuration Example:
+Primary DNS: 192.168.10.2
+Secondary DNS: 8.8.8.8
+
+Add the following entries:
+AdminWeb  -> 192.168.10.5
+SalesWeb  -> 192.168.20.5

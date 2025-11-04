@@ -1,0 +1,9 @@
+Router> enable
+Router# configure terminal
+Router(config)# no access-list 10
+Router(config)# access-list 10 deny 192.168.30.0 0.0.0.255
+Router(config)# access-list 10 permit any
+Router(config)# interface fa0/0
+Router(config-if)# ip access-group 10 in
+Router(config-if)# end
+Router# write memory

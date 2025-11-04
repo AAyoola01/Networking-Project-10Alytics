@@ -1,0 +1,11 @@
+Router> enable
+Router# configure terminal
+Router(config)# ip dhcp pool Admin
+Router(dhcp-config)# network 192.168.10.0 255.255.255.0
+Router(dhcp-config)# default-router 192.168.10.1
+Router(dhcp-config)# exit
+Router(config)# ip dhcp pool Sales
+Router(dhcp-config)# network 192.168.20.0 255.255.255.0
+Router(dhcp-config)# default-router 192.168.20.1
+Router(config)# end
+Router# write memory
