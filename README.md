@@ -69,6 +69,11 @@ Screenshots:
 ### HR Access
 ![HR Access Test](Images/Access_Test_HR.png)
 
+---
+
+## 📄 Project Documentation  
+For full configuration, verification screenshots, and analysis, read the complete project report:  
+👉 [Alex_Ayoola_Network_Security_CaseStudy.pdf](Alex_Ayoola_Network_Security_CaseStudy.pdf)
 
 ---
 
