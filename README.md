@@ -72,8 +72,11 @@ Screenshots:
 ---
 
 ## 📄 Project Documentation  
-For full configuration, verification screenshots, and analysis, read the complete project report:  
-👉 [Alex_Ayoola_Network_Security_CaseStudy.pdf](Alex_Ayoola_Network_Security_CaseStudy.pdf)
+For full configuration details, topology diagrams, and test results, download the full report below:
+
+📘 [Alex_Ayoola_Network_Security_CaseStudy.pdf](Docs/Alex_Ayoola_Network_Security_CaseStudy.pdf)
+
+![PDF Icon](https://img.icons8.com/color/48/000000/pdf.png)
 
 ---
 
